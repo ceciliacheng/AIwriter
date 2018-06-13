@@ -2,7 +2,7 @@
 
 In the dark the old man could feel the morning coming and as he rowed he heard the trembling sound as flying fish left the water and the hissing that their stiff set wings made as they soared away in the darkness.
 
-黑暗中，老人感到清晨缓缓靠近。他一边划船，一边倾听飞鱼跃出水面时的颤栗，以及它们坚硬的翅膀划破阒黑时发出的咻咻声。
+黑暗中，老人感到清晨缓缓靠近。他一边划船，一边倾听飞鱼跃出水面时的颤栗，以及它们坚硬的翅膀划破阒黑时的咻咻声。
 
 He was very fond of flying fish as they were his principal friends on the ocean.
 他钟爱这些飞鱼，它们是他在海上唯一的朋友。
@@ -29,7 +29,7 @@ He was sorry for the birds, especially the small delicate dark terns that were a
 
 另外，他们用“渐渐”表达太阳慢慢出来，个人觉得“缓缓”更好，所以我用“缓缓”。
 
-而形容燕鸥体型、外表方面，两位都啰嗦啦，应该缩短，意思都是一样的嘛。不然中文铿锵特色怎么保留呢？（顺带一提，这也是**中国古代诗**特点）
+而形容燕鸥体型、外表和老人对燕鸥的感情，两位都啰嗦啦，应该缩短，意思都是一样的嘛。不然中文铿锵特色怎么保留呢？可以做得更好，“燕鸥”是意象，它和“老人因体衰气弱导致捕鱼经常不成功，英雄迟暮“之间是有关系的。（顺带一提，铿锵和意象也是**中国古代诗**特点）
 
 “信达雅”里面的“达”表示“不拘泥与形式”，他们二人都囿于原文句式啦。
 如果有人看到这段话，接着对“信达雅”的“达”感兴趣，请去看把“信达雅“观点带入中国的严复先生翻译的《国富论》。（很痛苦的，慎重）
